@@ -1,4 +1,4 @@
-# iPad Controller {#ur gay}
+# iPad Controller
 
 I made this in the holidays in a few hours because I was bored. The code is really bad, but it works, and it's not too hard to go and tamper with the code
 
